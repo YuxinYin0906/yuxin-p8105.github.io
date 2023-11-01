@@ -7,7 +7,7 @@ output:
     theme: cosmo
 ---
 
-# <font size="6"> **Welcome** </font>
+# Welcome
 
 <font size="5"> **Hi! I'm Irene.** </font> 
 
