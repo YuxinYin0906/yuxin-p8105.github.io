@@ -1,0 +1,19 @@
+---
+title: "My Site"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    #theme: cerulean
+---
+
+# Welcome
+
+**Hi! I'm Irene.**
+
+I'm a first year master student majoring in Biostatistics at Columbia Mailman School of Public Health.
+
+
+![](images/pic2.jpeg)
+
+
