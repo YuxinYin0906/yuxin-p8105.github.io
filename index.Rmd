@@ -6,13 +6,12 @@ output:
     toc_float: true
     theme: cosmo
 ---
-# About Me
 
-<font size="10"> **Welcome** </font>
+# <font size="6"> **Welcome** </font>
 
 <font size="5"> **Hi! I'm Irene.** </font> 
 
-I'm a first year master student majoring in Biostatistics at Columbia Mailman School of Public Health.
+I'm a first year master student majoring in Biostatistics at Columbia Mailman School of Public Health. This is my personal introductory website containing all my education and internship experiences. 
 
 
 <img src="images/pic2.jpeg" style="height:50%">
