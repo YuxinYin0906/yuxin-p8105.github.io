@@ -13,4 +13,4 @@ navbar:
       href: https://www.linkedin.com/in/irene-y-445745299/
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
