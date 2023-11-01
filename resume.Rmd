@@ -1,5 +1,5 @@
 ---
-title: "resume"
+title: "CV"
 output: 
   html_document:
     toc: true
@@ -7,8 +7,9 @@ output:
     #theme: cerulean
 ---
 
-# resume
+# Academic and Professional Experience
 
-This is the resume.
+
+
 
 

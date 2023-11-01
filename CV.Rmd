@@ -1,0 +1,31 @@
+---
+title: "CV"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+# CV
+
+# Some stuff about me
+
+ * I poisoned myself doing research.
+ * I was the first woman to win a Nobel prize
+ * I was the first person and only woman to win a Nobel prize in two different sciences.
+
+# Education
+
+```{r}
+library(tibble)
+library(vitae)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Undergraduate", "2019-2023", "Emory University", "Atlanta, GA",
+  "Master of Public Health", "2023-2025", "Columbia University", "New York City, NY"
+) %>%
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+

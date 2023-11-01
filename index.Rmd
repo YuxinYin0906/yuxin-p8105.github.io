@@ -6,13 +6,27 @@ output:
     toc_float: true
     theme: cosmo
 ---
+# About Me
 
 <font size="10"> **Welcome** </font>
 
-<font size="6"> **Hi! I'm Irene.** </font> 
+<font size="5"> **Hi! I'm Irene.** </font> 
 
 I'm a first year master student majoring in Biostatistics at Columbia Mailman School of Public Health.
 
 
 <img src="images/pic2.jpeg" style="height:50%">
+
+
+# Contact Information
+Yuxin Yin<br>
+[Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) <br>
+[Columbia Mailman School of Public Health](https://www.publichealth.columbia.edu) <br>
+620 West 153rd Street, Room 608 <br>
+
+
+
+
+
+
 
