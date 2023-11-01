@@ -4,16 +4,15 @@ output:
   html_document:
     toc: true
     toc_float: true
-    #theme: cerulean
+    theme: cosmo
 ---
 
-# Welcome
+<font size="10"> **Welcome** </font>
 
-**Hi! I'm Irene.**
+<font size="6"> **Hi! I'm Irene.** </font> 
 
 I'm a first year master student majoring in Biostatistics at Columbia Mailman School of Public Health.
 
 
-![](images/pic2.jpeg)
-
+<img src="images/pic2.jpeg" style="height:50%">
 
