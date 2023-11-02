@@ -37,12 +37,13 @@ Column {data-width=650}
 ### Chart A: Scatter Plot Showing tmin and tmax Across Locations
 
 ```{r}
-scatter_plot = weather_df|>
+weather_df|>
   mutate(text_label = str_c("name:", name, "\ntmin:", tmin, "\ntmax:", tmax))|>
   plot_ly(
     x = ~tmin, y = ~tmax, type = "scatter", mode = "markers",
     color = ~name, text = ~text_label, alpha = 0.5
   )
+
 ```
 
 Column {data-width=350}
